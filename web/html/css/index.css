@@ -1,0 +1,28 @@
+html {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+}
+ul {
+  list-style-type: none;
+  word-break: break-all;
+  padding: 0;
+}
+li {
+  margin-bottom: 10px;
+  letter-spacing: 1.5px;
+  white-space: wrap;
+}
+.title-text {
+     background: #848484;
+    width: 300px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}
