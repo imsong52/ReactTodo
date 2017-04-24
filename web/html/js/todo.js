@@ -15,6 +15,7 @@ class TODOMain extends React.Component {
     newItem.push(text);
     let newText = '';
     this.setState({items: newItem, text: newText});
+    
  }
  render() {
    return (

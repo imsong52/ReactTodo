@@ -12,6 +12,9 @@ ul {
   word-break: break-all;
   padding: 0;
 }
+br{
+  margin-top: 50px;
+}
 li {
   margin-bottom: 10px;
   letter-spacing: 1.5px;
